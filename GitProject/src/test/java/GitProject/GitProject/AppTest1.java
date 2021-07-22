@@ -10,6 +10,6 @@ import junit.framework.TestSuite;
 public class AppTest1  extends TestCase
 {
 	public static void main (String args[]){
-		System.out.println("Second Test Case in Git Project - Updated");
+		System.out.println("Second Test Case in Git Project - Updated 1");
 	}
 }
